@@ -1,5 +1,3 @@
-import { expect, test } from 'vitest'
-
 const shoppingList = [
   'diapers',
   'kleenex',
