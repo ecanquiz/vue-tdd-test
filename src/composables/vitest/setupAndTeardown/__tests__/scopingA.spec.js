@@ -1,4 +1,3 @@
-import { afterAll, afterEach, beforeAll, beforeEach, describe, expect, test } from 'vitest'
 import * as City from '../City';
 
 describe('matching cities with each', () => {

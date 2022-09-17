@@ -1,5 +1,3 @@
-import { describe, expect, test } from 'vitest'
-
 describe('outer', () => {
   console.log('describe outer-a');
 

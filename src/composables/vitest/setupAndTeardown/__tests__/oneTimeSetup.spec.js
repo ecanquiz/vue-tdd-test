@@ -1,4 +1,3 @@
-import { afterAll, beforeAll, expect, test } from 'vitest'
 import * as City from '../City';
 
 beforeAll(() => {

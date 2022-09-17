@@ -1,5 +1,3 @@
-import { afterAll, afterEach, beforeAll, beforeEach, describe, test } from 'vitest'
-
 beforeAll(() => console.log('1 - beforeAll'));
 afterAll(() => console.log('1 - afterAll'));
 beforeEach(() => console.log('1 - beforeEach'));
